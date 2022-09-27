@@ -6,8 +6,9 @@ export default function Navbar(props){
     return(
         <nav class="navbar navbar-expand-lg bg-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="/">Elise's Portfolio</a>
-                <img src={cockatiel2} class="cockatiel" alt="round birb" />
+                <a class="navbar-brand" href="/
+                "><img src={cockatiel2} class="cockatiel" alt="round birb" />Elise's Portfolio</a>
+                
                 <button class="navbar-toggler border border-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
