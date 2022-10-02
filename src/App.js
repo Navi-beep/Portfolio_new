@@ -7,7 +7,7 @@ function App(props) {
       <>
       <Navbar name='Elise'/>
       <div>
-      <h2 className='text-center'>Project Portfolio</h2>
+      <h1 className='text-center'>Project Portfolio</h1>
       <h3 className='text-center'>2022</h3>
       </div>
 
@@ -19,11 +19,11 @@ function App(props) {
       
       </div>
 
-      <div>
-      <h2 className='text-center'>Gopher Weather API</h2>
+      <div className="mt-5">
+      <h2 className='text-center'>Gopher Weather App</h2>
       </div>
 
-      <div>
+      <div className="mt-5">
       <h2 className='text-center'>Address Book</h2>
       </div>
       
