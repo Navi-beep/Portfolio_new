@@ -1,7 +1,8 @@
 //import './App.css';
 import Navbar from "./components/Navbar"
+import Cats from "./components/Cats"
 
-function App() {
+function App(props) {
     return (
       <>
       <Navbar name='Elise'/>
@@ -11,7 +12,11 @@ function App() {
       </div>
 
       <div>
+
       <h2 className='text-center'>Cat-Tastic Fantastic App</h2>
+      <Cats/>
+      
+      
       </div>
 
       <div>
@@ -21,6 +26,7 @@ function App() {
       <div>
       <h2 className='text-center'>Address Book</h2>
       </div>
+      
     
       </>
     )
