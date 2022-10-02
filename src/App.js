@@ -5,7 +5,9 @@ function App() {
     return (
       <>
       <Navbar name='Elise'/>
-      
+      <div>
+      <h2 className='text-center'>Project Portfolio</h2>
+      </div>
     
       </>
     )
