@@ -6,7 +6,7 @@ export default function Cat(props) {
 
     return (
 
-        <div className="row mt-5 p-2 card m-auto align-self-center text-center" style={{width: '15rem' }}>
+        <div className="row mt-5 p-2 card m-auto align-self-center text-center" style={{width: '18rem' }}>
             <h3 className="text-center">Cat-Tastic Fantastic App</h3>
             <img src={pexels}  className="card-img-top" alt="cat paw at keyboard"/>
             <div className="card-body">

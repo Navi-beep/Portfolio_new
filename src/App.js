@@ -1,6 +1,7 @@
 //import './App.css';
 import Navbar from "./components/Navbar"
 import Cats from "./components/Cats"
+import Gopher from "./components/Gopher"
 
 function App(props) {
     return (
@@ -16,8 +17,7 @@ function App(props) {
       </div>
 
       <div className="mt-5">
-      <h2 className='text-center'>Gopher Weather App</h2>
-      
+      <Gopher/>
       </div>
 
       <div className="mt-5">
