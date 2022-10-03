@@ -12,11 +12,7 @@ function App(props) {
       </div>
 
       <div>
-
-      <h2 className='text-center'>Cat-Tastic Fantastic App</h2>
       <Cats/>
-      
-      
       </div>
 
       <div className="mt-5">
