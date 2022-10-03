@@ -12,7 +12,7 @@ export default function Gopher(props) {
             <div className="card-body">
                 <h5 className="card-title text-center">A cute gopher based weather app</h5>
                 <p className="card-text text-center">An App where you can check the weather in different cities all over the world with a little gopher friend!</p>
-                <a href="/" target="_blank" className="btn btn-primary rounded-pill">Check it out</a>
+                <a href="/" target="_blank" rel="noreferrer" className="btn btn-primary rounded-pill">Check it out</a>
             </div>
         </div>
         

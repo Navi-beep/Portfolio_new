@@ -15,8 +15,8 @@ export default function Navbar(props){
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className="navbar-nav">
                     <a className="nav-link active" aria-current="page" href="/">Home</a>
-                    <a className="nav-link" href="https://www.linkedin.com/in/elise-stawarski-a7698028/" target="_blank">LinkedIn</a>
-                    <a className="nav-link" href="https://github.com/Navi-beep" target="_blank">Github</a>
+                    <a className="nav-link" href="https://www.linkedin.com/in/elise-stawarski-a7698028/" target="_blank" rel="noreferrer">LinkedIn</a>
+                    <a className="nav-link" href="https://github.com/Navi-beep" target="_blank" rel="noreferrer">Github</a>
                 </div>
                 </div>
             </div>
