@@ -7,7 +7,7 @@ function App(props) {
       <>
       <Navbar name='Elise'/>
       <div>
-      <h1 className='text-center'>Project Portfolio</h1>
+      <h1 className='text-center mt-4'>Project Portfolio</h1>
       <h3 className='text-center'>2022</h3>
       </div>
 

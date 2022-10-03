@@ -11,7 +11,7 @@ export default function Cat(props) {
             <img src={pexels}  className="card-img-top" alt="cat paw at keyboard"/>
             <div className="card-body">
                 <h5 className="card-title text-center">A Cat Social Media</h5>
-                <p className="card-text text-center">An App where you can post about tour favorite internet cats, get random cat images, and see cat friends. </p>
+                <p className="card-text text-center">An App where you can post about your favorite internet cats, get random cat images, and see cat friends. </p>
                 <a href="https://final-project-cat-app.herokuapp.com/" target="_blank" className="btn btn-primary rounded-pill">Check it out</a>
             </div>
         </div>
